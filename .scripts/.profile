@@ -1,11 +1,3 @@
-# .bash_profile
-
-# Get the aliases and functions
-if [ -f ~/.bashrc ]; then
-    . ~/.bashrc
-fi
-
-# User specific environment and startup programs
 
 if [ -f ~/prompt_min_v2.sh ]; then
     . ~/prompt_min_v2.sh
