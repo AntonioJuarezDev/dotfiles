@@ -7,10 +7,10 @@ DIR_FG=33
 PROMPT_FG=35
 
 git_branch() {
-  git -C . rev-parse 2>/dev/null
-  if [[ "$?" -eq 0 ]]; then
-    echo " $(git symbolic-ref --short HEAD)  "
-  fi
+    git -C . rev-parse 2>/dev/null
+    if [[ "$?" -eq 0 ]]; then
+        echo " $(git symbolic-ref --short HEAD)  "
+    fi
 }
 
 CHECK="\$([[ \$? == 0 ]] && echo -e \[\033[32m\]❙ || echo -e \[\033[31m\]❙) "
@@ -22,11 +22,5 @@ PROMPT="\[\033[${PROMPT_FG}m\]ᐳ\[\033[0;39;49m\] "
 
 PS1="${CHECK}${HOSTN}${GIT_BRANCH}${CURRENT_DIR}${PROMPT}"
 export PS1
-
-
-
-
-
-
 
 # END
