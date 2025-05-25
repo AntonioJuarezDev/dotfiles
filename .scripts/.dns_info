@@ -1,0 +1,8 @@
+
+# Custom DNS
+
+DNS=194.242.2.4#base.dns.mullvad.net
+DNSSEC=no
+DNSOverTLS=yes
+Domains=~.
+
