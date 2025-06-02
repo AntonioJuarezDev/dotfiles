@@ -8,10 +8,10 @@ DIR_FG=33
 PROMPT_FG=35
 
 git_branch() {
-    git -C . rev-parse 2>/dev/null
-    if [[ "$?" -eq 0 ]]; then
-        echo " $(git symbolic-ref --short HEAD)  "
-    fi
+  git -C . rev-parse 2>/dev/null
+  if [[ "$?" -eq 0 ]]; then
+    echo " $(git symbolic-ref --short HEAD)  "
+  fi
 }
 
 CHECK="\$([[ \$? == 0 ]] && echo -e \[\033[32m\]❙ || echo -e \[\033[31m\]❙) "

@@ -1,6 +1,5 @@
-
 if [ -f ~/prompt_min_v2.sh ]; then
-    . ~/prompt_min_v2.sh
+  . ~/prompt_min_v2.sh
 fi
 
 PATH="$HOME/Documents/firefox_driver:$HOME/AppImages:$PATH"
