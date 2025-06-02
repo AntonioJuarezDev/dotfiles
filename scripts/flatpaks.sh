@@ -27,6 +27,9 @@ flatpak install -y flathub one.ablaze.floorp
 # Fragments - Torrent Client
 flatpak install -y flathub de.haeckerfelix.Fragments
 
+# FreeTube - Local YouTube Client
+flatpak install -y flathub io.freetubeapp.FreeTube
+
 # Gear Lever - Manage AppImages
 flatpak install -y flathub it.mijorus.gearlever
 
