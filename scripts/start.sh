@@ -24,7 +24,7 @@ brew install tmux
 
 # append config to .bash_profile
 
-cat ~/dotfiles/scripts/config_files/.profile >> ~/.bash_profile
+cat ~/dotfiles/config_files/.profile >> ~/.bash_profile
 
 # stow: Create a Symlink of my config files to the home folder
 

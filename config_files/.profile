@@ -1,3 +1,5 @@
+# Custom .bash_profile lines
+
 if [ -f ~/prompt_min_v2.sh ]; then
   . ~/prompt_min_v2.sh
 fi
