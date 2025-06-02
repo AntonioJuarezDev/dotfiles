@@ -4,6 +4,10 @@
 
 sh ~/dotfiles/.scripts/dns_setup.sh
 
+# install flatpaks
+
+sh ~/dotfiles/.scripts/flatpaks.sh
+
 # install fonts
 
 brew install --cask font-fira-code
