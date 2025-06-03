@@ -19,6 +19,7 @@ sh ~/dotfiles/scripts/flatpaks.sh
 # install brew recommended
 
 brew install gcc
+brew postinstall gcc
 
 # install fonts
 
@@ -36,6 +37,6 @@ cat ~/dotfiles/config_files/.profile >> ~/.bash_profile
 
 # stow: Create a Symlink of my config files to the home folder
 
-stow -d ~/dotfiles/stow_files -t ~/
+stow -d ~/dotfiles/stow_files/ -t ~/
 
 source ~/.bash_profile
