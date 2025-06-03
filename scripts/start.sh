@@ -12,6 +12,10 @@ sh ~/dotfiles/scripts/fedora_installs.sh
 
 sh ~/dotfiles/scripts/flatpaks.sh
 
+# install brew recommended
+
+brew install gcc
+
 # install fonts
 
 brew install --cask font-fira-code
