@@ -4,6 +4,10 @@
 
 sh ~/dotfiles/scripts/dns_setup.sh
 
+# homebrew install
+
+sh ~/dotfiles/scripts/install_brew.sh
+
 # fedora installs
 
 sh ~/dotfiles/scripts/fedora_installs.sh
