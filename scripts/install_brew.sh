@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Install Hombebrew
 
 # Install script
