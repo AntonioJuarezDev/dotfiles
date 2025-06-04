@@ -1,0 +1,217 @@
+{
+    "windows": [
+        {
+            "emotePopup": {
+                "x": 2144,
+                "y": 259
+            },
+            "height": 906,
+            "tabs": [
+                {
+                    "highlightsEnabled": true,
+                    "splits2": {
+                        "flexh": 1,
+                        "flexv": 1,
+                        "items": [
+                            {
+                                "data": {
+                                    "name": "mym_alkapone",
+                                    "type": "twitch"
+                                },
+                                "filters": [
+                                ],
+                                "flexh": 1,
+                                "flexv": 1,
+                                "moderationMode": false,
+                                "type": "split"
+                            },
+                            {
+                                "data": {
+                                    "name": "mym_alkapone",
+                                    "type": "twitch"
+                                },
+                                "filters": [
+                                    "7f7630d5-9f3d-4ea1-9223-acaf32d8198f",
+                                    "e9b4f87e-9f2b-470d-aecf-383ab464048b"
+                                ],
+                                "flexh": 1,
+                                "flexv": 1,
+                                "moderationMode": false,
+                                "type": "split"
+                            }
+                        ],
+                        "type": "horizontal"
+                    },
+                    "title": "MYM_ALKAPONE"
+                },
+                {
+                    "highlightsEnabled": true,
+                    "selected": true,
+                    "splits2": {
+                        "flexh": 1,
+                        "flexv": 1,
+                        "items": [
+                            {
+                                "data": {
+                                    "name": "henyathegenius",
+                                    "type": "twitch"
+                                },
+                                "filters": [
+                                ],
+                                "flexh": 1,
+                                "flexv": 1,
+                                "moderationMode": false,
+                                "type": "split"
+                            },
+                            {
+                                "data": {
+                                    "name": "henyathegenius",
+                                    "type": "twitch"
+                                },
+                                "filters": [
+                                    "7f7630d5-9f3d-4ea1-9223-acaf32d8198f",
+                                    "e9b4f87e-9f2b-470d-aecf-383ab464048b"
+                                ],
+                                "flexh": 1,
+                                "flexv": 1,
+                                "moderationMode": false,
+                                "type": "split"
+                            }
+                        ],
+                        "type": "horizontal"
+                    },
+                    "title": "HenyaTheGenius"
+                },
+                {
+                    "highlightsEnabled": true,
+                    "splits2": {
+                        "flexh": 1,
+                        "flexv": 1,
+                        "items": [
+                            {
+                                "data": {
+                                    "name": "pekeispeak",
+                                    "type": "twitch"
+                                },
+                                "filters": [
+                                ],
+                                "flexh": 1,
+                                "flexv": 1,
+                                "moderationMode": false,
+                                "type": "split"
+                            },
+                            {
+                                "data": {
+                                    "name": "pekeispeak",
+                                    "type": "twitch"
+                                },
+                                "filters": [
+                                    "7f7630d5-9f3d-4ea1-9223-acaf32d8198f",
+                                    "e9b4f87e-9f2b-470d-aecf-383ab464048b"
+                                ],
+                                "flexh": 1,
+                                "flexv": 1,
+                                "moderationMode": false,
+                                "type": "split"
+                            }
+                        ],
+                        "type": "horizontal"
+                    },
+                    "title": "PekeIsPeak (柚鳥ペケ)"
+                },
+                {
+                    "highlightsEnabled": true,
+                    "splits2": {
+                        "flexh": 1,
+                        "flexv": 1,
+                        "items": [
+                            {
+                                "data": {
+                                    "name": "akatsukidhotaru",
+                                    "type": "twitch"
+                                },
+                                "filters": [
+                                ],
+                                "flexh": 1,
+                                "flexv": 1,
+                                "moderationMode": false,
+                                "type": "split"
+                            },
+                            {
+                                "data": {
+                                    "name": "akatsukidhotaru",
+                                    "type": "twitch"
+                                },
+                                "filters": [
+                                    "7f7630d5-9f3d-4ea1-9223-acaf32d8198f",
+                                    "e9b4f87e-9f2b-470d-aecf-383ab464048b"
+                                ],
+                                "flexh": 1,
+                                "flexv": 1,
+                                "moderationMode": false,
+                                "type": "split"
+                            }
+                        ],
+                        "type": "horizontal"
+                    },
+                    "title": "AkatsukiDHotaru (暁月ホタル)"
+                },
+                {
+                    "highlightsEnabled": true,
+                    "splits2": {
+                        "data": {
+                            "name": "iron156",
+                            "type": "twitch"
+                        },
+                        "filters": [
+                        ],
+                        "flexh": 1,
+                        "flexv": 1,
+                        "moderationMode": false,
+                        "type": "split"
+                    }
+                },
+                {
+                    "highlightsEnabled": true,
+                    "splits2": {
+                        "flexh": 1,
+                        "flexv": 1,
+                        "items": [
+                            {
+                                "data": {
+                                    "name": "zentreya",
+                                    "type": "twitch"
+                                },
+                                "filters": [
+                                ],
+                                "flexh": 1,
+                                "flexv": 1,
+                                "moderationMode": false,
+                                "type": "split"
+                            },
+                            {
+                                "data": {
+                                    "name": "zentreya",
+                                    "type": "twitch"
+                                },
+                                "filters": [
+                                    "7f7630d5-9f3d-4ea1-9223-acaf32d8198f",
+                                    "e9b4f87e-9f2b-470d-aecf-383ab464048b"
+                                ],
+                                "flexh": 1,
+                                "flexv": 1,
+                                "moderationMode": false,
+                                "type": "split"
+                            }
+                        ],
+                        "type": "horizontal"
+                    }
+                }
+            ],
+            "type": "main",
+            "width": 1064,
+            "x": 1928,
+            "y": 47
+        }
+    ]
+}

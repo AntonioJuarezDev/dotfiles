@@ -1,0 +1,14 @@
+{
+    "commands": [
+        {
+            "name": "/henyaheart",
+            "func": "henyaHenyaheart henyaHenyaheart henyaHenyaheart",
+            "showInMsgContextMenu": true
+        },
+        {
+            "name": "/henyaraid",
+            "func": "HEN隊 henyaRaid henyaDayo HEN隊 henyaRaid henyaDayo HEN隊 henyaRaid henyaDayo HEN隊 henyaRaid henyaDayo HEN隊 henyaRaid henyaDayo HEN隊 henyaRaid henyaDayo HEN隊 henyaRaid henyaDayo",
+            "showInMsgContextMenu": true
+        }
+    ]
+}
