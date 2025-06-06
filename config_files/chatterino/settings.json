@@ -561,13 +561,6 @@
         "lockNotebookLayout": false
     },
     "accounts": {
-        "current": "iron156",
-        "uid111625246": {
-            "username": "iron156",
-            "userID": "111625246",
-            "clientID": "g5zg0400k4vhrx2g6xi4hgveruamlv",
-            "oauthToken": "6a1vtmafp35i49514vsq4mrecx8kcb"
-        }
     },
     "appearance": {
         "currentFontFamily": "Fira Code",
