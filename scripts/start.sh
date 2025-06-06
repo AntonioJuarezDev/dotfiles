@@ -37,6 +37,6 @@ cat ~/dotfiles/config_files/.profile >> ~/.bash_profile
 
 # stow: Create a Symlink of my config files to the home folder
 
-stow -d ~/dotfiles/stow_files/ -t ~/ .
+stow .
 
 source ~/.bash_profile
