@@ -1,0 +1,15 @@
+{"_id":"autoplayPlaylists","value":false}
+{"_id":"barColor","value":false}
+{"_id":"baseTheme","value":"dark"}
+{"_id":"bounds","value":{"x":0,"y":66,"width":1920,"height":1014,"maximized":true,"fullScreen":false}}
+{"_id":"defaultQuality","value":"1080"}
+{"_id":"defaultViewingMode","value":"theatre"}
+{"_id":"expandSideBar","value":false}
+{"_id":"hideHeaderLogo","value":false}
+{"_id":"hideLabelsSideBar","value":false}
+{"_id":"hidePopularVideos","value":true}
+{"_id":"hideRecommendedVideos","value":true}
+{"_id":"hideTrendingVideos","value":true}
+{"_id":"playNextVideo","value":false}
+{"_id":"proxyVideos","value":true}
+{"_id":"quickBookmarkTargetPlaylistId","value":"favorites"}
