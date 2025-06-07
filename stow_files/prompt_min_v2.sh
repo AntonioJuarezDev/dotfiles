@@ -14,7 +14,7 @@ git_branch() {
   fi
 }
 
-CHECK="\$([[ \$? == 0 ]] && echo -e \[\033[32m\]❙ || echo -e \[\033[31m\]❙) "
+CHECK="\$([[ \$? == 0 ]] && echo -e \[\033[32m\]󰚠 || echo -e \[\033[31m\]󰚠) "
 HOSTN="\[\033[1;${HOSTN_BRKT_FG}m\]〔\[\033[1;${HOSTN_FG}m\]\$(hostname)\[\033[1;${HOSTN_BRKT_FG}m\]〕 "
 GIT_BRANCH="\[\033[1;${GIT_FG}m\]\$(git_branch)"
 CURRENT_DIR="\[\033[1;${DIR_FG}m\]\w\n"
