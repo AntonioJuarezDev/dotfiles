@@ -9,6 +9,11 @@ export PATH
 
 # alias
 
+# utils
+alias activate='source venv/bin/activate'
+alias ll='ls -la'
+alias curl='curl -OJ'
+
 # manhwa
 alias manhwa-util='python /home/antonio/Documents/py_scripts/manhwa_scrapper/main.py'
 
