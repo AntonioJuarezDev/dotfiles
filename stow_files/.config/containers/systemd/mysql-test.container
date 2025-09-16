@@ -1,0 +1,7 @@
+[Container]
+ContainerName=mysql-test
+Image=docker.io/mysql:latest
+Environment=MYSQL_ROOT_PASSWORD=secret
+AutoUpdate=registry
+PublishPort=3306:3306
+Volume=/home/antonio/Documents/mysql-data:/var/lib/mysql:z
