@@ -27,6 +27,8 @@ alias vid-dl='python /home/antonio/Documents/obsidian_vaults/Youtube_tracker/py_
 alias vidfile-dl='python /home/antonio/Documents/obsidian_vaults/Youtube_tracker/py_scripts/download_file.py'
 alias sort-vid='python /home/antonio/Documents/obsidian_vaults/Youtube_tracker/py_scripts/sort_folders.py'
 
+alias update-yt-dlp='pip install --force-reinstall yt-dlp@git+https://github.com/yt-dlp/yt-dlp@master'
+
 # archive download
 alias archive_dl='python /home/antonio/Documents/py_scripts/dl_archive/main.py'
 
