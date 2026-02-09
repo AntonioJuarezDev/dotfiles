@@ -33,8 +33,8 @@ flatpak install -y flathub io.freetubeapp.FreeTube
 # Gear Lever - Manage AppImages
 flatpak install -y flathub it.mijorus.gearlever
 
-# LibreWolf - Web Browser
-flatpak install -y flathub io.gitlab.librewolf-community
+# KeepassXC - Password Manager
+flatpak install -y flathub org.keepassxc.KeePassXC
 
 # Mission Center - Task Manager
 flatpak install -y flathub io.missioncenter.MissionCenter
@@ -45,11 +45,8 @@ flatpak install -y flathub io.mpv.Mpv
 # MusicBrainz Picard - Music Tagger
 flatpak install -y flathub org.musicbrainz.Picard
 
-# Newsflash - RSS Reader
-flatpak install -y flathub io.gitlab.news_flash.NewsFlash
-
-# Telegram - Communication App
-flatpak install -y flathub org.telegram.desktop
-
 # VSCodium - Text Editor
 flatpak install -y flathub com.vscodium.codium
+
+# Waterfox - Web Browser
+flatpak install -y flathub net.waterfox.waterfox
